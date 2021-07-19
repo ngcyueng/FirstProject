@@ -23,3 +23,4 @@ def someFunction():
     print (f)
 someFunction()
 print (f)
+print(f)
