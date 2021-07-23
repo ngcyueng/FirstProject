@@ -19,5 +19,4 @@ t.end_fill()
 
 t.right(10)
 t.right(10)
-t.left(10)
 t.right(10)
